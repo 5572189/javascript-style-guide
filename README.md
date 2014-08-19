@@ -1,6 +1,6 @@
 [原文: https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-注：本人根据自己的开发习惯删除和修改了部分规范
+#注：本人根据自己的开发习惯删除和修改了部分规范
 
 # JavaScript规范
 
